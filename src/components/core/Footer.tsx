@@ -31,7 +31,7 @@ export default function Footer() {
 
       {/* Copyright */}
       <div className="text-muted-foreground text-sm">
-        © 2025 Noterious. All rights reserved.
+        © 2026 Noterious. All rights reserved.
       </div>
 
       {/* Branding */}
